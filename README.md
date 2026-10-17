@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Muskan 👋
 
-<!--
-**thakurmuskan01234-hue/thakurmuskan01234-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student at Bharati Vidyapeeth College of Engineering, Pune
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Learning Python, AI, Machine Learning and Data Analytics
+- 💻 Interested in software development and AI-based solutions
+- 🚀 Building projects and improving my technical skills
+- 🤝 Open to learning and collaborating on projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **Languages:** Python, C++, SQL
+- **AI/ML:** Artificial Intelligence, Machine Learning
+- **Tools:** Git, GitHub
+
+## My Projects
+- 🏠 AI Housing Affordability Map
+- 🐍 Python Practicals
+- 🏥 Medifind
+
+## Connect With Me
+- GitHub: https://github.com/thakurmuskan01234-hue
+- LinkedIn: Add your LinkedIn profile URL here
+
+---
+⭐ Thanks for visiting my profile!
